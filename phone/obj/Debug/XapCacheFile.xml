@@ -1,0 +1,27 @@
+﻿<xapCache source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\Bin\Debug\phone_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/12/14 14:33:46">
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\obj\Debug\phone.dll" archivePath="phone.dll" lastWriteTime="2014/12/14 14:33:45" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2014/12/13 20:44:20" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2014/12/13 20:44:20" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\Assets\Settings.png" archivePath="Assets\Settings.png" lastWriteTime="2014/12/13 23:57:08" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2014/12/13 20:44:20" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2014/12/13 20:44:20" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2014/12/13 20:44:20" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2014/12/13 20:44:20" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2014/12/13 20:44:20" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\config.xml" archivePath="config.xml" lastWriteTime="2014/12/13 21:02:21" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\DLL\Coding4Fun.Phone.Controls.dll" archivePath="DLL\Coding4Fun.Phone.Controls.dll" lastWriteTime="2014/12/14 12:59:30" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\DLL\Coding4Fun.Phone.Controls.Toolkit.dll" archivePath="DLL\Coding4Fun.Phone.Controls.Toolkit.dll" lastWriteTime="2014/12/14 12:59:30" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\DLL\SinaBase.dll" archivePath="DLL\SinaBase.dll" lastWriteTime="2014/12/14 12:20:36" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\DLL\WeiboSdk.dll" archivePath="DLL\WeiboSdk.dll" lastWriteTime="2014/12/14 12:49:52" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\images\Bg.png" archivePath="images\Bg.png" lastWriteTime="2014/12/13 23:55:53" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\logo310.png" archivePath="logo310.png" lastWriteTime="2014/12/13 18:07:08" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2014/12/13 21:51:21" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/12/14 14:32:27" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\DLL\Coding4Fun.Phone.Controls.dll" archivePath="Coding4Fun.Phone.Controls.dll" lastWriteTime="2014/12/14 12:59:30" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\DLL\Coding4Fun.Phone.Controls.Toolkit.dll" archivePath="Coding4Fun.Phone.Controls.Toolkit.dll" lastWriteTime="2014/12/14 12:59:30" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\DLL\SinaBase.dll" archivePath="SinaBase.dll" lastWriteTime="2014/12/14 12:20:36" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\DLL\WeiboSdk.dll" archivePath="WeiboSdk.dll" lastWriteTime="2014/12/14 12:49:52" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\logo120.png" archivePath="logo120.png" lastWriteTime="2014/12/13 17:47:44" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\logo71.png" archivePath="logo71.png" lastWriteTime="2014/12/13 18:00:27" />
+  <file source="C:\Users\zhong_000\Desktop\OneKeySharePicToSina\phone\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/12/14 14:32:27" />
+</xapCache>

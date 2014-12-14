@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZHONGPING</Machine>
+    <WindowsUser>zhong_000</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d7774394-688f-49e0-85ed-61b4b4903950</PackageIdentityName>
+    <IntermediateOutputPath>F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\bin\Debug\OneKeySharePicToSina.exe">
+      <PackagePath>OneKeySharePicToSina.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\DLL\SinaBase.dll">
+      <PackagePath>DLL\SinaBase.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\DLL\WeiboSdk.dll">
+      <PackagePath>DLL\WeiboSdk.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\bin\Debug\OneKeySharePicToSina.xr.xml">
+      <PackagePath>OneKeySharePicToSina.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Project\WP8\OneKeySharePicToSina\OneKeySharePicToSina\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

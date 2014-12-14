@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config> 
+  <SinaApi>
+    <appKey>3536249065</appKey>
+    <appSecret>2b274a7e777f1639e6ce3dd6d3ba68d6</appSecret>
+    <redirectUri>http://weibo.com/3536249065</redirectUri>
+  </SinaApi>
+</config>
+
